@@ -1,1 +1,1 @@
-
+A periodic table containing most of the elements, each with a brief description, along with a glossary linking to Wikipedia pages explaining the necessary concepts. The page was built using CSS Grid to position the elements, and a JavaScript function dynamically generates each element box with its information and positions it on the grid. It features a minimalistic aesthetic and includes a night mode. The periodic table remains incomplete due to my graduation. Since I used CSS Grid without developing a responsive layout, it may not display correctly on all devices.
